@@ -1,3 +1,8 @@
 # Thesis
 
-Annotated Markdown revision of the thesis, including source-location markers and a traceable modification log.
+当前版本：**v2.0.0（2026-11-03，1103资料核对与盲审文字整改版）**。
+
+- [完整论文Markdown：含原文定位和逐段修改记录](金融科技论文_完整修订稿_含定位与修改说明.md)
+- [本轮修改说明：逐条盲审反馈、数据口径核对及文件校验](revisions/v2.0.0-修改说明.md)
+
+本次只调整文字、结构说明与解释边界，保留既有研究框架和结果方向。六份源数据文件均只读核对，未复制到仓库；既有结果表的数值、星号及原图保持原样。文件级核对不替代估计复现，ea字段与理论权益资产比、表5-3统计解释及样本处理链等未解事项在修改说明中明确列示。
