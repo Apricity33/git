@@ -1,0 +1,391 @@
+{
+  "version": "v3.0.0",
+  "date": "2026-11-16",
+  "source": "thesis/source/金融科技对商业银行风险承担的影响：基于Z-score的实证研究.docx",
+  "source_sha256": "7fbd9148eb97c9ebcc7221e55b7308bb30413e12e2e8ad39820524398cffd7a2",
+  "document": "thesis/金融科技论文_原文完整对照_有限修订_v3.0.0.md",
+  "source_paragraphs": 562,
+  "source_tables": 14,
+  "source_media": 7,
+  "source_omml_objects": 35,
+  "limited_edits": 17,
+  "editor_notes": 5,
+  "protected_paragraphs_4_5_6": 224,
+  "coverage": "Every direct body paragraph and table has a SOURCE/END pair; unchanged paragraphs are byte-equal to their source Markdown representation. All table cell texts and original media bytes are preserved.",
+  "verified_checks": {
+    "all_576_source_blocks_present": true,
+    "all_17_originals_exactly_match_word": true,
+    "all_17_full_original_and_revised_pairs_present": true,
+    "protected_224_paragraphs_preserved": true,
+    "all_14_tables_parsed": true,
+    "protected_table_cells_unchanged": true,
+    "all_7_media_byte_equal": true,
+    "all_35_math_AST_objects_equal": true,
+    "all_35_OMML_subtrees_equal": true,
+    "all_100_references_preserved": true,
+    "all_relative_links_resolve": true,
+    "source_docx_zip_integrity": true
+  },
+  "edits": [
+    {
+      "id": "M01",
+      "pid": 61,
+      "location": "第1章 1.2.1",
+      "reason": "仅收敛开头、理论贡献及结尾的度量创新宣称；中间对Z-score和RWA/TA的原有解释及研究结果不变。",
+      "original_sha256": "246210fcada5d27431bd71d297495f5e5a69e10b11de306c6d67f162d41c2a56",
+      "original_chars": 431,
+      "revised_chars": 403
+    },
+    {
+      "id": "M02",
+      "pid": 85,
+      "location": "第1章 1.3.2",
+      "reason": "只改研究方法对“确保可靠”“已识别机制”和“全面证据”的概括，保留已有面板、机器学习和敏感性方法的叙述，不增加分析。",
+      "original_sha256": "f375add8c728e130e362d313deae7f0025f04097fcbaea6a75be031ecb92eb87",
+      "original_chars": 168,
+      "revised_chars": 153
+    },
+    {
+      "id": "M03",
+      "pid": 89,
+      "location": "第1章 1.4",
+      "reason": "仅将创新总论和“分离效应、捕捉路径”改为同一框架下考察指标；原段末尾实证结果及政策意义原句保留。",
+      "original_sha256": "0a1ccf434073fe58acfe645a76d32e172806110c009f3ee94676f06d4d3a8d5c",
+      "original_chars": 211,
+      "revised_chars": 212
+    },
+    {
+      "id": "M04",
+      "pid": 90,
+      "location": "第1章 1.4",
+      "reason": "只改首句贡献定位，其余原段全部保留，避免把并置既有指标直接认作方法创新。",
+      "original_sha256": "066c1ab37ce86c30f93169d00f0c361885638f54da0f71cd4f4b00d82a063728",
+      "original_chars": 207,
+      "revised_chars": 207
+    },
+    {
+      "id": "M05",
+      "pid": 91,
+      "location": "第1章 1.4",
+      "reason": "撤回Z-score本身构成度量创新的表述，并收敛无系统证据的“多数研究依赖”；指标选择、含义及局限的其余原句完整保留。",
+      "original_sha256": "0fe8e3cbb45a219e86bc6ddd823e3b0ffc948b649a811adfd72309b0c8968fc1",
+      "original_chars": 200,
+      "revised_chars": 202
+    },
+    {
+      "id": "M06",
+      "pid": 92,
+      "location": "第1章 1.4",
+      "reason": "将“揭示机制”改为“考察关系”，修正嵌套的“对……对……”语病；所有原研究发现及交互项结论保持不变。",
+      "original_sha256": "0e401f79617dc337bdac79e1da9c91e6106a6d4c349cb44a0ad478f3fb2ccf2f",
+      "original_chars": 185,
+      "revised_chars": 183
+    },
+    {
+      "id": "M07",
+      "pid": 93,
+      "location": "第1章 1.4",
+      "reason": "将常规分组定位为扩展分析，并把未直接测量的资源禀赋、治理机制改为讨论线索；分组结果、预测方法与趋势原句不变。",
+      "original_sha256": "abb1549d9c9d7cd7f63ae15373240e9b9109b022f8ec4c3ddd4d6ae694dc89aa",
+      "original_chars": 213,
+      "revised_chars": 218
+    },
+    {
+      "id": "M08",
+      "pid": 94,
+      "location": "第1章 1.4",
+      "reason": "局部修正工具变量与预测解释边界，删除指向未实施中介检验框架的失效交叉引用；其余贡献描述及实证结论原句保留。",
+      "original_sha256": "9aa92cb539fd9bd53078e8a96d7d7ca966d7d528f00931fc14b2a2d35a57893a",
+      "original_chars": 528,
+      "revised_chars": 513
+    },
+    {
+      "id": "M09",
+      "pid": 104,
+      "location": "第2章 2.1",
+      "reason": "仅将金融科技被完整分解的强概念关系改为研究观察视角；保留原有微观、宏观两维度及全部定义。",
+      "original_sha256": "53cce89c7f9011e6d875c4ce01e0ef1a084f05ea1d991f72ea17760043bbfdce",
+      "original_chars": 451,
+      "revised_chars": 447
+    },
+    {
+      "id": "M10",
+      "pid": 105,
+      "location": "第2章 2.1",
+      "reason": "将层次结构改为分析视角，将被分解改为从两个相关维度考察；保留原直接效应与调节效应的研究安排。",
+      "original_sha256": "09800b6e26a5998c1df05b0d36295791338c8370a578501b7d5d7539041821b0",
+      "original_chars": 193,
+      "revised_chars": 197
+    },
+    {
+      "id": "M11",
+      "pid": 123,
+      "location": "第2章 2.3.2",
+      "reason": "仅将“外生的”改为“可能的”，不把理论竞争解释当作已识别外生冲击；其他原句保留。",
+      "original_sha256": "2c360edb517bd53aec3313dbc5ff576e35fa644d6d8b84fc233ec38fa15dc71b",
+      "original_chars": 424,
+      "revised_chars": 424
+    },
+    {
+      "id": "M12",
+      "pid": 126,
+      "location": "第2章 2.3.2",
+      "reason": "仅修正Z-score更不易受计提政策影响的无充分依据比较表述；保留原文会计文献及选择Z-score的分析脉络。",
+      "original_sha256": "ba33dda66a2486728d48ff3d30a975860fe00d44fbd4a8c5eaa52e786dae3965",
+      "original_chars": 410,
+      "revised_chars": 405
+    },
+    {
+      "id": "M13",
+      "pid": 138,
+      "location": "第2章 2.3.4",
+      "reason": "仅删除“金融科技的对”中的赘字“的”，修复语病，其余全文不动。",
+      "original_sha256": "9bfab3f9cd6a4344cad7feb74604576c93a9b4a21eecc31e7351cf788fedc8ef",
+      "original_chars": 252,
+      "revised_chars": 251
+    },
+    {
+      "id": "M14",
+      "pid": 147,
+      "location": "第2章 2.4",
+      "reason": "仅替换其二中Z-score前瞻性和国内应用薄弱的判断，明确原文已有盈利、资本及波动口径；其一、其三、其四完整保留。",
+      "original_sha256": "3c9c48457d86c77b50862be4558eb5fdd95521d686a7d2debdb94a26863d569d",
+      "original_chars": 496,
+      "revised_chars": 494
+    },
+    {
+      "id": "M15",
+      "pid": 149,
+      "location": "第2章 2.4",
+      "reason": "仅收敛既有指标应用的前瞻性及创新宣称，将“控制内生性”改为“缓解潜在内生性”；保留原三个贡献框架和研究设计。",
+      "original_sha256": "2fe412b403534040bcc9083b167725246894beb454ef9ec441a00c55597026f8",
+      "original_chars": 227,
+      "revised_chars": 216
+    },
+    {
+      "id": "M16",
+      "pid": 171,
+      "location": "第3章 3.1.4",
+      "reason": "仅撤除金融科技天然外生的未经识别属性，不改竞争稳定理论、U型文献命题或本文实证结论。",
+      "original_sha256": "51073e670dd1fa85b44f231501f2b591ff37df8b3e0654f2d9605c08e5b777e1",
+      "original_chars": 429,
+      "revised_chars": 424
+    },
+    {
+      "id": "M17",
+      "pid": 184,
+      "location": "第3章 3.2.2",
+      "reason": "仅将非线性和分组检验已识别竞争机制的说法改为考察函数形式与分组差异，不改变原理论方向及既有检验安排。",
+      "original_sha256": "8adb7dea94a7e201f34beed760c177806522ab29a55d0002d909d37686913fbb",
+      "original_chars": 306,
+      "revised_chars": 316
+    }
+  ],
+  "protected_math": [
+    {
+      "pid": 249,
+      "index": 1,
+      "sha256": "837176d06426d664e648d32e54a5b9f566150131b670656d613810db99903e0a"
+    },
+    {
+      "pid": 269,
+      "index": 1,
+      "sha256": "3570dd68c86e74eb27391b720c6ec24ca87d6eb054231aeef9f5524c0e39863e"
+    },
+    {
+      "pid": 270,
+      "index": 1,
+      "sha256": "75008285eb69ed61436cd5b2fefc22c0879bbf67a7536b083f6571c9bdf25563"
+    },
+    {
+      "pid": 272,
+      "index": 1,
+      "sha256": "41f7287c575b03ed15d411c5d0d616edf7068ec2b3bb07b45c26b16d1636d829"
+    },
+    {
+      "pid": 273,
+      "index": 1,
+      "sha256": "6facf58b389b97d88eba300481c4add1d8023de5d362c834adc3c5266564ba41"
+    },
+    {
+      "pid": 279,
+      "index": 1,
+      "sha256": "7558db999d8cabbd5ef58ac782145edb359ee4414975dfdfb3a2ab79ab277dc4"
+    },
+    {
+      "pid": 280,
+      "index": 1,
+      "sha256": "f9ada080a55b3fa1e07f1322ceffea4ecf8b9bc65a27223d6973dbcbff7e9b0a"
+    },
+    {
+      "pid": 281,
+      "index": 1,
+      "sha256": "22b18bf6666b8b1053a5617bfa29e3290e6174a6607f7099f454f85836796ade"
+    },
+    {
+      "pid": 283,
+      "index": 1,
+      "sha256": "5cbdf364be27c7e9f8a61610190aec81df72a27acdd578e6ff83343610ce6201"
+    },
+    {
+      "pid": 284,
+      "index": 1,
+      "sha256": "229d32791e312cb66417e424735e1ad44c2d315e535d2d5c951c5bbebf843f00"
+    },
+    {
+      "pid": 286,
+      "index": 1,
+      "sha256": "e50390ac264a62d9aebddcf85782b67ab841bf58e7a3983d6365080d2c656213"
+    },
+    {
+      "pid": 287,
+      "index": 1,
+      "sha256": "7c869554e4a1159c053056873fb59d79b4526eee01ebf627dc18d1d09a34b2e3"
+    },
+    {
+      "pid": 289,
+      "index": 1,
+      "sha256": "c8f8d01f5b631a4f1a947462daa68be278c4be8a73636f5718ac9098d59af07e"
+    },
+    {
+      "pid": 290,
+      "index": 1,
+      "sha256": "c7d312dfd30dd0b3b4c710c5bec87b601314923e9f15387a9b4422e6dc682730"
+    },
+    {
+      "pid": 298,
+      "index": 1,
+      "sha256": "744d2a7d72d6f526375b2f06a5168a0e4bbfae06b4e0fbbd0ff759acaabbea3e"
+    },
+    {
+      "pid": 300,
+      "index": 1,
+      "sha256": "0290dd59de1ac76de5146c052e81adb8ad3ea0e7aef0d1db524bf96e1056c351"
+    },
+    {
+      "pid": 300,
+      "index": 2,
+      "sha256": "f2b0627042c1844ba088cec67f867eeed1a9fb755cce6fd15effda161febccb1"
+    },
+    {
+      "pid": 300,
+      "index": 3,
+      "sha256": "bcc5a2acc61db92ad8b3662c157152e727887ce5bfd606b85dbc1a7a22e4e645"
+    },
+    {
+      "pid": 300,
+      "index": 4,
+      "sha256": "eb03539f5cb60eed2071f8caf3997de0787d014213f7caf5d47daec4a9daeb1f"
+    },
+    {
+      "pid": 300,
+      "index": 5,
+      "sha256": "658a3580e457c604f60161bd8f749080b1e1e06c45c242d802e0f673a62c966c"
+    },
+    {
+      "pid": 302,
+      "index": 1,
+      "sha256": "7521513939d1bc7f6990da54b7accb28cf85542d9d66455b7d1bd53dd61b006c"
+    },
+    {
+      "pid": 303,
+      "index": 1,
+      "sha256": "d7c4c9e50ab1fc4d8a324b07a7f22cdcb78075f32cb011aed1dcce1dfa556fa2"
+    },
+    {
+      "pid": 304,
+      "index": 1,
+      "sha256": "9bfd4cd4d1433b68c9337d97ab4c2360aabdac29927fe3a277074fa3668b526b"
+    },
+    {
+      "pid": 304,
+      "index": 2,
+      "sha256": "41cd2a0e4715965897bae4b2ea4db00124044a8dbcbf6aea5c5372ca80f4fa60"
+    },
+    {
+      "pid": 304,
+      "index": 3,
+      "sha256": "250298740b1a37481217d5ca5fd100307d5a503f2d86b4eae707b5aaea208f44"
+    },
+    {
+      "pid": 304,
+      "index": 4,
+      "sha256": "c4482a30a660309b831057b669e6545dac96df6d16b815fe6c7e804d64511b47"
+    },
+    {
+      "pid": 304,
+      "index": 5,
+      "sha256": "0fc2d8b52c83db96925876d87424cd6f722b88ff728308c5302b086aac0bc26d"
+    },
+    {
+      "pid": 304,
+      "index": 6,
+      "sha256": "916d799ce7ec0d58aa56692012ecc6fee0dd54f412fe5f173e9cdc636cd5d9c1"
+    },
+    {
+      "pid": 304,
+      "index": 7,
+      "sha256": "03b74a31f120014413cdf01f54279e403a2f2a050fe0c403c2412aea8e668bdf"
+    },
+    {
+      "pid": 304,
+      "index": 8,
+      "sha256": "b023ccd119ba9eb50e83a63503a0c556d89dba07d872780011f115a4b1629eaa"
+    },
+    {
+      "pid": 305,
+      "index": 1,
+      "sha256": "d4089e1452c550db7ee1433ca9fc94f6ee0e0efa0cf23998cf49b92251eba5fd"
+    },
+    {
+      "pid": 305,
+      "index": 2,
+      "sha256": "a58b7b078c58de5e1eb025852eadc7ae5c67b1699ae396d2c8d2194df73a5488"
+    },
+    {
+      "pid": 305,
+      "index": 3,
+      "sha256": "5e6f064cea0835f342cbef523df973a5187326243479a0bc28638cc60f6df505"
+    },
+    {
+      "pid": 306,
+      "index": 1,
+      "sha256": "4d82277b4824ed2035fcba98df9e182d676ee269a1f750714f2efb14a2ad63f2"
+    },
+    {
+      "pid": 306,
+      "index": 2,
+      "sha256": "a0f559c3aa123e6049f0a63d812313356d41ff7ba39dd37575dd4d0d5e1e15f6"
+    }
+  ],
+  "media": [
+    {
+      "path": "thesis/assets/original/7fbd9148eb97/image1.png",
+      "sha256": "3eecbc074b554c9e438bccecba85cd32645e594a71ac498c259fae26924a56b7"
+    },
+    {
+      "path": "thesis/assets/original/7fbd9148eb97/image2.png",
+      "sha256": "e3aea695e2ac17e96770157a461ea5f184dfd3e4466d6eb75a442e8e49681a2d"
+    },
+    {
+      "path": "thesis/assets/original/7fbd9148eb97/image3.png",
+      "sha256": "0625426049bfdf4e90d1329173e575f7632cf1bd434bb09278fdd37341784d93"
+    },
+    {
+      "path": "thesis/assets/original/7fbd9148eb97/image4.png",
+      "sha256": "faf92524f5e84654c070631de546f968ce67e1f5bb807f69c5ce9fc72b958147"
+    },
+    {
+      "path": "thesis/assets/original/7fbd9148eb97/image5.png",
+      "sha256": "52a3fc2dc573b9eb52f1d21880b827878a53db1dd3effb60069f14e8bd1cece4"
+    },
+    {
+      "path": "thesis/assets/original/7fbd9148eb97/image6.png",
+      "sha256": "a54d93d09b310369b7f1f7eca9781f330c3fb83b3a39f2238883893d02176eaf"
+    },
+    {
+      "path": "thesis/assets/original/7fbd9148eb97/image7.png",
+      "sha256": "c7e1ebf64a590aa5e3a7c1c5ab94bce4d377056188ddf2fa2c797d648fa2f0e9"
+    }
+  ]
+}
